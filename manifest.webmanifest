@@ -23,25 +23,25 @@
   ],
   "icons": [
     {
-      "src": "./icons/studioup/apple-touch-icon.png",
+      "src": "./icons/studioup/apple-touch-icon-5dfca05b19d4.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./icons/studioup/icon-192.png",
+      "src": "./icons/studioup/icon-192-eead3b22da7f.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./icons/studioup/icon-512.png",
+      "src": "./icons/studioup/icon-512-34e13014772c.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./icons/studioup/icon-512-maskable.png",
+      "src": "./icons/studioup/icon-512-maskable-d0ded2a2472c.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
