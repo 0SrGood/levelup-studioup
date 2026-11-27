@@ -1,0 +1,1 @@
+import{wn as e}from"./index-B9Lh--IU.js";var t=e(`square-minus`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M8 12h8`,key:`1wcyev`}]]);export{t};
