@@ -1,0 +1,50 @@
+{
+  "id": "./",
+  "name": "Studio Up · Level Up",
+  "short_name": "Studio Up",
+  "description": "Crie jogos no navegador com o Studio Up da Level Up.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101015",
+  "theme_color": "#101015",
+  "categories": [
+    "education"
+  ],
+  "prefer_related_applications": false,
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://studioup.levelup.app.br/manifest.webmanifest"
+    }
+  ],
+  "icons": [
+    {
+      "src": "./icons/apple-touch-icon-v2.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-192-v2.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512-v2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512-maskable-v2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
