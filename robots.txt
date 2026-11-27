@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://studioup.levelup.app.br/sitemap.xml
+Sitemap: https://levelup.app.br/sitemap.xml
