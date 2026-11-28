@@ -5,7 +5,9 @@ description: Modelar e ajustar acessórios vestíveis no Editor de Acessórios d
 
 # Acessórios vestíveis no Studio Up
 
-Use quando o pedido envolver chapéu, cabelo, máscara, colar, mochila, asas ou outro item preso ao corpo. Leia também levelup-modelagem, levelup-detalhamento e levelup-organizacao-otimizacao. O acessório usa Accessory; arma ou instrumento segurado usa Tool e levelup-tools. Não transforme o personagem inteiro numa união.
+Leia o [tutorial completo: modelar, encaixar e finalizar](references/modelar-e-finalizar.md). Para o catálogo, só a modelagem não conclui o item: é obrigatório preparar a malha única, gerar e conferir a textura PNG e validar. O JSON atual não aciona Preparar textura; explique essa etapa no resumo, sem inventar uma operação nem afirmar que publicou um item ainda sem PNG.
+
+Use quando o pedido envolver chapéu, cabelo, máscara, colar, mochila, asas ou outro item preso ao corpo. Leia também levelup-acessorios-otimizacao (metas de triângulos e peças), levelup-modelagem, levelup-detalhamento e levelup-organizacao-otimizacao. O acessório usa Accessory; arma ou instrumento segurado usa Tool e levelup-tools. Não transforme o personagem inteiro numa união.
 
 ## Ler o contexto antes de criar
 
